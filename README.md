@@ -1,7 +1,7 @@
 # Scrapy tech jobs
 
 ### Dataset
-The program collects the jobs listings from 60+ tech companies.
+The program collects the jobs listings from 60+ tech companies. The program has run on a weekly basis since 2019.
 
 Attributes:  
 | Column name                    | Descrpition                                             |
@@ -11,8 +11,13 @@ Attributes:
 | job_dept   		   	   | Job department |
 | job_title   		   	   | Job title |
 | job_loc   		   	   | Job location |
+| RunDate   		   	   | The date when the data is collected |
 
 
 
 
 ### Analysis
+
+
+### Contact
+If you are insterested in getting more information about the dataset, please contact <garykakitshum@gmail.com>. 

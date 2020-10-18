@@ -1,7 +1,7 @@
 # Scrapy tech jobs
 
 ### Dataset
-The program collects the jobs listings from from 60+ tech companies.
+The program collects the jobs listings from 60+ tech companies.
 
 Attributes:  
 | Column name                    | Descrpition                                             |

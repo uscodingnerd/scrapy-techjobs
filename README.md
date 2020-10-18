@@ -20,4 +20,4 @@ Attributes:
 
 
 ### Contact
-If you are insterested in getting more information about the dataset, please contact <garykakitshum@gmail.com>. 
+If you are insterested in more information about the dataset, please contact <garykakitshum@gmail.com>. 

@@ -1,50 +1,401 @@
-company,job_id,job_dept,job_title,job_loc
-docusign,1420369,Sales & Business Development,Account Executive,"Chicago, Illinois"
-docusign,1150478,Sales & Business Development,"Account Executive, Enterprise Corporate Sales","San Francisco, California"
-docusign,1397347,Sales & Business Development,"Account Executive, French Major Accounts","Dublin, Ireland"
-docusign,1444687,Sales & Business Development,Account Executive - Major Accounts,"Chicago, Illinois"
-docusign,1498506,Sales & Business Development,Account Executive - Major Accounts,"Toronto, Canada "
-docusign,1543486,Sales & Business Development,"Account Executive, Major, Emerging, Nordics","Dublin, Ireland"
-docusign,1494657,Sales & Business Development,Account Executive - Mid Market,"Chicago, Illinois"
-docusign,1600129,Legal & Risk Management,Sr.Corporate Counsel,"San Francisco, California"
-docusign,1482567,People Operations & Social Responsibility,"Sr. Director, HRBP-Sales","Seattle, Washington"
-docusign,1482565,People Operations & Social Responsibility,"Sr. Director, HRBP-Sales","San Francisco, California"
-docusign,1389446,Customer Success & Support,Sr. Operations Procedure Analyst,"Seattle, Washington"
-docusign,1463596,User Experience Design & Research,Sr. Product Designer - Enterprise,"Seattle, Washington"
-docusign,1593969,Sales & Business Development,Strategic Account Director,"Boston, Massachusetts"
-docusign,1593982,Sales & Business Development,Strategic Account Director,"Dallas, Texas"
-docusign,1593975,Sales & Business Development,Strategic Account Director,"Chicago, Illinois"
-docusign,1593978,Sales & Business Development,Strategic Account Director,"New York City, New York"
-docusign,1507924,Sales & Business Development,Strategic Account Executive ,"Dallas, Texas"
-docusign,1512367,Customer Success & Support,Supportability Manager,"Seattle, Washington"
-docusign,1574423,Customer Success & Support,Support Readiness – Knowledge & Communications Manager,"Seattle, Washington"
-docusign,1591937,Customer Success & Support,Support Readiness – Release Manager,"Seattle, Washington"
-docusign,1557472,Engineering & Tech Operations,Systems Engineer ,"San Francisco, California"
-docusign,1557471,Engineering & Tech Operations,Systems Engineer ,"Seattle, Washington"
-docusign,1526064,Customer Success & Support,Technical Customer Success Manager,"Seattle, Washington"
-docusign,1567944,Customer Success & Support,"Technical Customer Success Manager, Manager","Seattle, Washington"
-docusign,1425690,People Operations & Social Responsibility,Technical Recruiter,"Chicago, Illinois"
-docusign,1470002,Customer Success & Support,Technical Support Engineer,"Chicago, Illinois"
-docusign,1526043,Customer Success & Support,"Technical Support Representative, Tier II","Seattle, Washington"
-etsy,7675331f-90dc-437a-9f6d-868febd4117d,Native Applications Engineering,Senior iOS Engineer,"New York, NY"
-etsy,9d6fc653-2a07-4b96-b5b7-26e71169fb1f,Systems Engineering,Senior Software Engineer / SRE,"New York, NY"
-etsy,ff6ab196-00df-49fb-8a16-972dbbe910b8,Marketing,CRM Database Marketing Lead,"New York, NY"
-etsy,b327d474-1ff6-4e74-b8a9-3e953c7bfcb5,Finance & Accounting,Technology Internal Audit Manager,"New York, NY"
-etsy,70e0fd9a-bf0a-40c9-9591-fb112a46ca80,Product Engineering,"Software Engineer, Payments","New York, NY"
-etsy,b676adb8-7cf1-4b74-b8a9-b6c74d0cef7f,Finance & Accounting,"Analyst, FP&A - Marketing","New York, NY"
-etsy,19060dfc-b4a2-40ed-aacb-9d4d274dcaac,Infrastructure Engineering,"Software Engineer, Machine Learning Infrastructure","San Francisco, CA"
-etsy,8cfdd7e1-baf6-4376-82ba-ff5832c6a4f1,Product Marketing,Product Marketing Manager,"New York, NY"
-etsy,c1958443-9cee-4400-ba53-52b5350a3cd5,Systems Engineering,Staff Software Engineer - Brooklyn,"New York, NY"
-etsy,c11a6790-4694-4bdf-8e93-e1f1a6f4b6a0,Marketing,Merchandising Category Manager,"New York, NY"
-etsy,bb5fd17e-3dd4-4b5d-8ff9-1096a909d0b9,Product Engineering,"Full Stack Software Engineer, Product Engineering (New Grad)","New York, NY"
-etsy,1be372a7-0332-4454-8ae4-bf98881a7099,Finance & Accounting,"Director, International Payments Operations",Dublin
-etsy,3a1c8506-21fd-47ed-a89f-e90435c40486,Data Engineering,"Senior Software Engineer, Cloud Operations","New York, NY"
-etsy,3f3c5f10-20b4-477a-aa23-23cda24bca06,Native Applications Engineering,Senior Android Engineer,"New York, NY"
-etsy,2aed72bc-329b-4218-9bba-22d1b7df3bb7,Finance & Accounting,Accounting Manager,"New York, NY"
-etsy,3114afd5-dfba-48a0-ad88-07f9cfb5e391,Finance & Accounting,Senior Revenue Accountant,"New York, NY"
-etsy,d1c1e8fe-622d-4804-8230-52c76e7c3614,Product Engineering,"Director of Engineering, Payments","New York, NY"
-etsy,b5b597aa-e11d-4396-9b73-8fb8432674e7,Systems Engineering,Senior Software Engineer/SRE,Dublin
-etsy,5adc715b-7fcf-40d3-95fa-95e63a6c4c49,Finance & Accounting,"Senior Director, Corporate Development","New York, NY"
-etsy,5a81605e-54a9-4d2f-a13a-e37c72a6fcba,Research,Senior Market Researcher,"New York, NY"
-etsy,d6734f4f-2bad-4ce5-bde9-2f6ed6a3d3e0,Search & Data Sciences,Machine Learning Engineer,"New York, NY"
-etsy,682bb0b4-4b84-43ad-9eec-9588ae999e25,Search & Data Sciences,Machine Learning Engineer,"San Francisco, CA"
+company,job_id,job_dept,job_title,job_loc,RunDate
+docusign,1420369,Sales & Business Development,Account Executive,"Chicago, Illinois",3/19/2019
+docusign,1150478,Sales & Business Development,"Account Executive, Enterprise Corporate Sales","San Francisco, California",3/19/2019
+docusign,1397347,Sales & Business Development,"Account Executive, French Major Accounts","Dublin, Ireland",3/19/2019
+docusign,1444687,Sales & Business Development,Account Executive - Major Accounts,"Chicago, Illinois",3/19/2019
+docusign,1498506,Sales & Business Development,Account Executive - Major Accounts,"Toronto, Canada ",3/19/2019
+docusign,1543486,Sales & Business Development,"Account Executive, Major, Emerging, Nordics","Dublin, Ireland",3/19/2019
+docusign,1494657,Sales & Business Development,Account Executive - Mid Market,"Chicago, Illinois",3/19/2019
+docusign,1600129,Legal & Risk Management,Sr.Corporate Counsel,"San Francisco, California",3/19/2019
+docusign,1482567,People Operations & Social Responsibility,"Sr. Director, HRBP-Sales","Seattle, Washington",3/19/2019
+docusign,1482565,People Operations & Social Responsibility,"Sr. Director, HRBP-Sales","San Francisco, California",3/19/2019
+docusign,1389446,Customer Success & Support,Sr. Operations Procedure Analyst,"Seattle, Washington",3/19/2019
+docusign,1463596,User Experience Design & Research,Sr. Product Designer - Enterprise,"Seattle, Washington",3/19/2019
+docusign,1593969,Sales & Business Development,Strategic Account Director,"Boston, Massachusetts",3/19/2019
+docusign,1593982,Sales & Business Development,Strategic Account Director,"Dallas, Texas",3/19/2019
+docusign,1593975,Sales & Business Development,Strategic Account Director,"Chicago, Illinois",3/19/2019
+docusign,1593978,Sales & Business Development,Strategic Account Director,"New York City, New York",3/19/2019
+docusign,1507924,Sales & Business Development,Strategic Account Executive ,"Dallas, Texas",3/19/2019
+docusign,1512367,Customer Success & Support,Supportability Manager,"Seattle, Washington",3/19/2019
+docusign,1574423,Customer Success & Support,Support Readiness – Knowledge & Communications Manager,"Seattle, Washington",3/19/2019
+docusign,1591937,Customer Success & Support,Support Readiness – Release Manager,"Seattle, Washington",3/19/2019
+docusign,1557472,Engineering & Tech Operations,Systems Engineer ,"San Francisco, California",3/19/2019
+docusign,1557471,Engineering & Tech Operations,Systems Engineer ,"Seattle, Washington",3/19/2019
+docusign,1526064,Customer Success & Support,Technical Customer Success Manager,"Seattle, Washington",3/19/2019
+docusign,1567944,Customer Success & Support,"Technical Customer Success Manager, Manager","Seattle, Washington",3/19/2019
+docusign,1425690,People Operations & Social Responsibility,Technical Recruiter,"Chicago, Illinois",3/19/2019
+docusign,1470002,Customer Success & Support,Technical Support Engineer,"Chicago, Illinois",3/19/2019
+docusign,1526043,Customer Success & Support,"Technical Support Representative, Tier II","Seattle, Washington",3/19/2019
+etsy,7675331f-90dc-437a-9f6d-868febd4117d,Native Applications Engineering,Senior iOS Engineer,"New York, NY",3/19/2019
+etsy,9d6fc653-2a07-4b96-b5b7-26e71169fb1f,Systems Engineering,Senior Software Engineer / SRE,"New York, NY",3/19/2019
+etsy,ff6ab196-00df-49fb-8a16-972dbbe910b8,Marketing,CRM Database Marketing Lead,"New York, NY",3/19/2019
+etsy,b327d474-1ff6-4e74-b8a9-3e953c7bfcb5,Finance & Accounting,Technology Internal Audit Manager,"New York, NY",3/19/2019
+etsy,70e0fd9a-bf0a-40c9-9591-fb112a46ca80,Product Engineering,"Software Engineer, Payments","New York, NY",3/19/2019
+etsy,b676adb8-7cf1-4b74-b8a9-b6c74d0cef7f,Finance & Accounting,"Analyst, FP&A - Marketing","New York, NY",3/19/2019
+etsy,19060dfc-b4a2-40ed-aacb-9d4d274dcaac,Infrastructure Engineering,"Software Engineer, Machine Learning Infrastructure","San Francisco, CA",3/19/2019
+etsy,8cfdd7e1-baf6-4376-82ba-ff5832c6a4f1,Product Marketing,Product Marketing Manager,"New York, NY",3/19/2019
+etsy,c1958443-9cee-4400-ba53-52b5350a3cd5,Systems Engineering,Staff Software Engineer - Brooklyn,"New York, NY",3/19/2019
+etsy,c11a6790-4694-4bdf-8e93-e1f1a6f4b6a0,Marketing,Merchandising Category Manager,"New York, NY",3/19/2019
+etsy,bb5fd17e-3dd4-4b5d-8ff9-1096a909d0b9,Product Engineering,"Full Stack Software Engineer, Product Engineering (New Grad)","New York, NY",3/19/2019
+etsy,1be372a7-0332-4454-8ae4-bf98881a7099,Finance & Accounting,"Director, International Payments Operations",Dublin,3/19/2019
+etsy,3a1c8506-21fd-47ed-a89f-e90435c40486,Data Engineering,"Senior Software Engineer, Cloud Operations","New York, NY",3/19/2019
+etsy,3f3c5f10-20b4-477a-aa23-23cda24bca06,Native Applications Engineering,Senior Android Engineer,"New York, NY",3/19/2019
+etsy,2aed72bc-329b-4218-9bba-22d1b7df3bb7,Finance & Accounting,Accounting Manager,"New York, NY",3/19/2019
+etsy,3114afd5-dfba-48a0-ad88-07f9cfb5e391,Finance & Accounting,Senior Revenue Accountant,"New York, NY",3/19/2019
+etsy,d1c1e8fe-622d-4804-8230-52c76e7c3614,Product Engineering,"Director of Engineering, Payments","New York, NY",3/19/2019
+etsy,b5b597aa-e11d-4396-9b73-8fb8432674e7,Systems Engineering,Senior Software Engineer/SRE,Dublin,3/19/2019
+etsy,5adc715b-7fcf-40d3-95fa-95e63a6c4c49,Finance & Accounting,"Senior Director, Corporate Development","New York, NY",3/19/2019
+etsy,5a81605e-54a9-4d2f-a13a-e37c72a6fcba,Research,Senior Market Researcher,"New York, NY",3/19/2019
+etsy,d6734f4f-2bad-4ce5-bde9-2f6ed6a3d3e0,Search & Data Sciences,Machine Learning Engineer,"New York, NY",3/19/2019
+etsy,682bb0b4-4b84-43ad-9eec-9588ae999e25,Search & Data Sciences,Machine Learning Engineer,"San Francisco, CA",3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019
+,,,,,3/19/2019

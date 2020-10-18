@@ -11,7 +11,7 @@ Attributes:
 | job_dept   		   	   | Job department |
 | job_title   		   	   | Job title |
 | job_loc   		   	   | Job location |
-| RunDate   		   	   | The date when the data is collected |
+| RunDate   		   	   | The date when the data was collected |
 
 
 
